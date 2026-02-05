@@ -1,16 +1,20 @@
-/statvion-infotech
+statvion-infotech/
 │
-├── index.html          (Home)
-├── about.html          (About / Vision / Values)
-├── services.html       (End-to-End IT Services)
-├── work.html           (Case Studies / Our Work)
-├── careers.html        (Careers / Hiring)
-├── contact.html        (Contact – email based)
+├── index.html
+├── about.html
+├── services.html
+├── work.html
+├── careers.html
+├── contact.html
+│
+├── includes/
+│   ├── header.html
+│   └── footer.html
 │
 ├── assets/
-│   ├── images/
-│   │   └── logo.png    ← your provided logo
 │   ├── css/
 │   │   └── style.css
-│   └── js/
-│       └── main.js
+│   ├── js/
+│   │   └── main.js
+│   └── images/
+│       └── logo.png   ← your provided logo
